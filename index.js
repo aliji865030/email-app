@@ -106,4 +106,4 @@ app.post("/send-email",(req,res)=>{
   });
 })
 
-app.listen(8080,()=>console.log("app is up and running on port 8080"))
+app.listen(10000,()=>console.log("app is up and running on port 10000"))
